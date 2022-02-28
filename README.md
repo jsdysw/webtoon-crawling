@@ -63,8 +63,8 @@ npm start
 * So I will get information the same way.
 
 * step 1. get webtoon data from kakaopage server through api call.
-  * (ongoing) https://api2-page.kakao.com/api/v2/store/day_of_week_top/list?category=10&subcategory=0&page= + [0,..,페이지끝] + &day= + [1, 2, 3, 4, 5, 6, 7]
-  * (finished) https://api2-page.kakao.com/api/v2/store/day_of_week_top/list?category=10&subcategory=0&page= + [0,..,페이지끝] + &day= + [1, 2, 3, 4, 5, 6, 7]
+  * (ongoing) https://api2-page.kakao.com/api/v2/store/day_of_week_top/list?category=10&subcategory=0&page= + [0,..,pageEndNum] + &day= + [1, 2, 3, 4, 5, 6, 7]
+  * (finished) https://api2-page.kakao.com/api/v2/store/day_of_week_top/list?category=10&subcategory=0&page= + [0,..,pageEndNum] + &day= + [1, 2, 3, 4, 5, 6, 7]
 * ![스크린샷 2022-02-28 오후 5 27 13](https://user-images.githubusercontent.com/76895949/155949695-ca70ab46-3902-44d1-9c09-89a14f6ad089.png)
 
 * step 2. parser data.
