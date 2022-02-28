@@ -64,8 +64,7 @@ npm start
 * check korNaverFinished.json and korNaverOngoing.json files
 
 # korea kakaopage webtoons
-* kakaopage website get webtoons information from their server through api call.
-* So I will get information the same way.
+* kakaopage website get webtoons information from their server through api call so I will get them the same way.
 
 * step 1. get webtoon data from kakaopage server through api call.
   * (ongoing) https://api2-page.kakao.com/api/v2/store/day_of_week_top/list?category=10&subcategory=0&page= + [0,..,pageEndNum] + &day= + [1, 2, 3, 4, 5, 6, 7]
