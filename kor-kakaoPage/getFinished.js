@@ -11,8 +11,8 @@ const getRequest = async (url) => {
 
 const getWebtoonInfo = async (webtoon, url) => {
   const res = await getRequest(url);
-  const webtoonObj = res.data.list
-  ;
+  const webtoonObj = res.data.list;
+  
   let webtoonIdx = webtoon.length;
   for (let i = 0; i<webtoonObj.length; i++, webtoonIdx++) {
     webtoon[webtoonIdx] = {
