@@ -1,8 +1,8 @@
 const getOngoings = require('./getOngoings');
 const getFinished = require('./getFinished');
 
-// crawling naver ongoing webtoons
+// crawling kakao page ongoing webtoons
 getOngoings.getOngoings();
 
-// crawling naver finished webtoons
+// crawling kakao page finished webtoons
 // getFinished.getFinished();

@@ -3,3 +3,6 @@
 
 /kor-naver/node_modules
 /kor-naver/package-lock.json
+
+/kor-kakaopage/node_modules
+/kor-kakaopage/package-lock.json
