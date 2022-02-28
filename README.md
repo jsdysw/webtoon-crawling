@@ -12,16 +12,17 @@
 
 ### how to execute
 * move to us-naver folder
-* 
-₩₩₩javascript
+
+
+```javascript
 npm install
-₩₩₩javascript
+```
 
-₩₩₩javascript
+```javascript
 npm start
-₩₩₩javascript
+```
 
-check the result, usNaver.json file
+* check the result, usNaver.json file
 
 ## kor naver
 if you want to access information of adult webtoons. you have to pass website's authorization.
