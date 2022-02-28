@@ -12,12 +12,15 @@
 
 ### how to execute
 * move to us-naver folder
-...c
+* 
+₩₩₩javascript
 npm install
-...c
-...c
+₩₩₩javascript
+
+₩₩₩javascript
 npm start
-...c
+₩₩₩javascript
+
 check the result, usNaver.json file
 
 ## kor naver
