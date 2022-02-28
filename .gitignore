@@ -1,2 +1,5 @@
 /us-naver/node_modules
 /us-naver/package-lock.json
+
+/kor-naver/node_modules
+/kor-naver/package-lock.json
