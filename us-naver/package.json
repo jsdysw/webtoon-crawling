@@ -1,0 +1,17 @@
+{
+  "name": "naver-us-crawling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.26.0",
+    "cheerio": "1.0.0-rc.10",
+    "firebase-admin": "10.0.2",
+    "firebase-functions": "3.18.1"
+  }
+}
