@@ -1,8 +1,8 @@
 # webtoon-crawling
 * get webtoons' information like title, score, summary, author, genre and so on, from kakopage and naver webtoon(Kor/US) websites by crawling.
-* A webtoon information will be saved like the image below.
+* A webtoon information will be saved as an object like the image below.
 ![스크린샷 2022-02-28 오후 5 34 32](https://user-images.githubusercontent.com/76895949/155950964-a55e068a-1b17-4b37-9e50-c58b4fe5d9df.png)
-* And finally all the webtoons information will be saved as .json file format.
+* And finally all the webtoon objects will be saved as .json file format.
 
 * framework : nodejs
 * language : javascript
