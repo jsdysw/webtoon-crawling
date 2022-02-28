@@ -10,9 +10,11 @@
 
 # us naver webtoons
 * **step 1.** get all the webtoons list
+
 ![스크린샷 2022-02-28 오후 4 53 20](https://user-images.githubusercontent.com/76895949/155945034-62db19f6-4361-4d01-b3e7-d98eba846dfe.png)
 
-* step 2.move to the specific webtoon page and get more detailed information.
+* **step 2.** move to the specific webtoon page and get more detailed information.
+
 ![스크린샷 2022-02-28 오후 4 54 41](https://user-images.githubusercontent.com/76895949/155945202-ff9db125-304a-499f-9e3d-86c6037dc0a5.png)
 
 ### how to execute
@@ -33,10 +35,10 @@ npm start
 * if you want to access information of adult webtoons. you have to pass website's authorization.
 * you can see how puppeteer browser login was implemented.
 
-* step 1. login through puppeteer browser. (Not necessary)
-* step 2. get all the webtoons list
+* **step 1.** login through puppeteer browser. (Not necessary)
+* **step 2.** get all the webtoons list
 <img width="831" alt="스크린샷 2022-02-28 오후 5 11 42" src="https://user-images.githubusercontent.com/76895949/155947503-8db79732-d94c-4849-8383-5e80722d6be2.png">
-* step 3. move to the specific webtoon page and get more detailed information.
+* **step 3.** move to the specific webtoon page and get more detailed information.
 <img width="831" alt="스크린샷 2022-02-28 오후 5 12 11" src="https://user-images.githubusercontent.com/76895949/155947576-ad08ef3e-af2d-4ade-af88-a205cea06573.png">
 
 ### how to execute
@@ -66,12 +68,12 @@ npm start
 # korea kakaopage webtoons
 * kakaopage website get webtoons information from their server through api call so I will get them the same way.
 
-* step 1. get webtoon data from kakaopage server through api call.
+* **step 1.** get webtoon data from kakaopage server through api call.
   * (ongoing) https://api2-page.kakao.com/api/v2/store/day_of_week_top/list?category=10&subcategory=0&page= + [0,..,pageEndNum] + &day= + [1, 2, 3, 4, 5, 6, 7]
   * (finished) https://api2-page.kakao.com/api/v2/store/day_of_week_top/list?category=10&subcategory=0&page= + [0,..,pageEndNum] + &day= + [1, 2, 3, 4, 5, 6, 7]
 * ![스크린샷 2022-02-28 오후 5 27 13](https://user-images.githubusercontent.com/76895949/155949695-ca70ab46-3902-44d1-9c09-89a14f6ad089.png)
 
-* step 2. parser data.
+* **step 2.** parser data.
 
 ### how to execute
 * move to the /kor-kakaoPage folder.
