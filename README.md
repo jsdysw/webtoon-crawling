@@ -9,7 +9,7 @@
 * used libraries : axios, cheerio, puppeteer
 
 # us naver webtoons
-* step 1.get all the webtoons list
+* **step 1.** get all the webtoons list
 ![스크린샷 2022-02-28 오후 4 53 20](https://user-images.githubusercontent.com/76895949/155945034-62db19f6-4361-4d01-b3e7-d98eba846dfe.png)
 
 * step 2.move to the specific webtoon page and get more detailed information.
