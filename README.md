@@ -38,6 +38,7 @@ npm start
 * **step 1.** login through puppeteer browser. (Not necessary)
 * **step 2.** get all the webtoons list
 <img width="831" alt="스크린샷 2022-02-28 오후 5 11 42" src="https://user-images.githubusercontent.com/76895949/155947503-8db79732-d94c-4849-8383-5e80722d6be2.png">
+
 * **step 3.** move to the specific webtoon page and get more detailed information.
 <img width="831" alt="스크린샷 2022-02-28 오후 5 12 11" src="https://user-images.githubusercontent.com/76895949/155947576-ad08ef3e-af2d-4ade-af88-a205cea06573.png">
 
